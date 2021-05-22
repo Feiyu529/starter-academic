@@ -20,7 +20,7 @@ bio: Searching for a research assistantship opportunity in high-dimensional stat
 interests:
 - High-Dimensional Statistics
 - Machine Learning
-- Large-Scale Optimization Problems Solving
+- Large-scale Optimization
 
 # Education to show in About widget
 education:
