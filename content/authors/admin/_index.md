@@ -14,7 +14,7 @@ organizations:
   url: https://www.uchicago.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Looking for research opportunities related to domain high-dimensional statistics, machine learning and operations research.
 
 # Interests to show in About widget
 interests:
