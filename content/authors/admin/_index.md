@@ -14,26 +14,23 @@ organizations:
   url: https://www.uchicago.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Looking for research opportunities related to domain high-dimensional statistics, machine learning and operations research.
+bio: Searching for a research assistantship opportunity in high-dimensional statistics, machine learning and operations research.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- High-Dimensional Statistics
+- Machine Learning
+- Large-Scale Optimization Problems Solving
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Statistics
+    institution: The University of Chicago
+    year: 2023
+  - course: BS in Mathematics and Applied Mathematics
+    institution: University of Chinese Academy of Sciences
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,16 +42,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: linkedin.com/in/feiyu-han-226b4317b
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
