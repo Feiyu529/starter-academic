@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 15/Users/feiyu/Desktop/未命名文件夹/exampleSite/content/home/demo.md
 
 title: Hugo Academic Theme Demo
 subtitle:
