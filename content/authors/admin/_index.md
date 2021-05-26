@@ -67,8 +67,9 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Feiyu Han received her B.S. degree in Mathematics and Applied Mathematics from University of Chinese Academy of Sciences, Beijing, China, in 2021. She is currently working toward the M.S. degree in Statistics at The University of Chicago. Her research interests include  High-Dimensional Statistics, Machine Learning and Large-Scale Optimization Problems Solving.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+She has participated in statistical research projects with a variety of applied backgrounds and worked as an undergraduate research assistant at the State Key Laboratory of Science and Engineering Computing, Chinese Academy of Sciences, in 2020-2021.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
